@@ -20,4 +20,8 @@ Frank, E., & Williams, E.D. (In preparation). Administrative Capacity and Policy
 
 ## Conferences & Public Lectures
 
-*Add entries here as you attend or contribute to conferences and public lectures.*
+**Environment of Public Policy: Nigeria and Her Neighbours — New Regional Dynamics, New Policy Responses**
+Contributed to this lecture delivered by Prof. Etim Frank at the Strategic Intelligence Management Institute (SIMI), Leadership and Management Cluster SIMC-2, Abuja, 17 August 2026. [View slides](https://docs.google.com/presentation/d/1GUKxS7alriEW5sqtt8gCJn5nhLqe-gZ8/edit?usp=sharing)
+
+**Governance in Nigeria Since 2015 and Growth Trajectory to Date**
+Contributed to and attended this guest lecture delivered by Prof. Etim Frank at the AHECPP National Dialogue on "The State of the Nigerian Economy," marking the birth anniversary of Emeritus Professor Akpan Hogan Ekpo, University of Uyo Multipurpose Hall, 26 June 2026. [View slides](https://docs.google.com/presentation/d/1IxHmpDdd6K4ArCOjQCewQfLacA8B6QNZvXDUgcaQi-U/edit?usp=sharing)
