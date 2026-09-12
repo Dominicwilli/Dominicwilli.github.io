@@ -17,7 +17,7 @@ layout: default
     float: none;
     display: block;
     width: 100%;
-    height: auto;
+    height: 280px;
     margin: 0 0 20px 0;
   }
 }
