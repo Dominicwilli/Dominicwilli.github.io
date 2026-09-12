@@ -20,7 +20,7 @@ Frank, E., & Williams, E.D. (In preparation). Administrative Capacity and Policy
 
 ## Conferences & Public Lectures
 
-**Environment of Public Policy: Nigeria and Her Neighbours — New Regional Dynamics, New Policy Responses**
+**Environment of Public Policy: Nigeria and Her Neighbours - New Regional Dynamics, New Policy Responses**
 Contributed to this lecture delivered by Prof. Etim Frank at the Strategic Intelligence Management Institute (SIMI), Leadership and Management Cluster SIMC-2, Abuja, 17 August 2026. [View slides](https://docs.google.com/presentation/d/1GUKxS7alriEW5sqtt8gCJn5nhLqe-gZ8/edit?usp=sharing)
 
 **Governance in Nigeria Since 2015 and Growth Trajectory to Date**
