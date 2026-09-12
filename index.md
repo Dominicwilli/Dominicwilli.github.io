@@ -14,11 +14,9 @@ layout: default
 }
 @media (max-width: 600px) {
   .profile-photo {
-    float: none;
-    display: block;
-    width: 100%;
-    height: 280px;
-    margin: 0 0 20px 0;
+    width: 130px;
+    height: 160px;
+    margin: 0 0 12px 12px;
   }
 }
 </style>
