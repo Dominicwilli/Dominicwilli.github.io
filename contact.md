@@ -1,6 +1,7 @@
 ---
 layout: page
 title: contact
+permalink: /contact/
 ---
 
 Feel free to reach out about research collaboration, governance work, or speaking opportunities.
