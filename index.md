@@ -44,3 +44,9 @@ Contributed to this lecture delivered by Prof. Etim Frank at the Strategic Intel
 
 **Governance in Nigeria Since 2015 and Growth Trajectory to Date**
 Contributed to and attended this guest lecture delivered by Prof. Etim Frank at the AHECPP National Dialogue on "The State of the Nigerian Economy," marking the birth anniversary of Emeritus Professor Akpan Hogan Ekpo, University of Uyo Multipurpose Hall, 26 June 2026. [View slides](https://docs.google.com/presentation/d/1IxHmpDdd6K4ArCOjQCewQfLacA8B6QNZvXDUgcaQi-U/edit?usp=sharing)
+
+
+## Honours & Awards
+
+**Award of Excellence**
+National Association of Political Science Students (NAPSS), presented for selfless service to the growth of the department, 5 September 2025. [View award certificate](https://drive.google.com/file/d/1Sfa3uMDFRkqPij34Y8ThpzbvJwE4qGyS/view)
