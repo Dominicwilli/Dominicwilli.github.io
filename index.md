@@ -50,3 +50,11 @@ Contributed to and attended this guest lecture delivered by Prof. Etim Frank at 
 
 **Award of Excellence**
 National Association of Political Science Students (NAPSS), presented for selfless service to the growth of the department, 5 September 2025. [View award certificate](https://drive.google.com/file/d/1Sfa3uMDFRkqPij34Y8ThpzbvJwE4qGyS/view)
+
+## Certifications
+
+- [AI Governance: Strategy, Policy, Responsible Deployment](https://www.udemy.com/certificate/UC-a8403d23-49bb-43d2-8f19-9fef78b3d9f0/)
+- [SPSS: A Practical Guide to Data Analysis](https://www.udemy.com/certificate/UC-e84eb178-79d0-4661-94f5-37b798a8d390/)
+- [Project Management](https://drive.google.com/file/d/1DzKZP1alWSy6uVEK37CqmKODeM1c9rDY/view?usp=sharing)
+- [Aspire Leaders Program Certificate](https://drive.google.com/file/d/1irKuokI5ZifmxIrxIt8gbHI2pHngeV6z/view?usp=sharing)
+- [CS50P: Introduction to Programming with Python — Harvard University, 2025](https://drive.google.com/file/d/1AHlYdO0vQaVVej3MzfwN68smkfdm35ax/view?usp=sharing)
